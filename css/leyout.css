@@ -8,6 +8,11 @@
     width: 300px;
 }
 
+.titolo {
+    line-height: 0;
+    color: rgb(75, 75, 75);
+}
+
 .the-Booleaner {
    color : rgb(54, 181, 245);
 }
