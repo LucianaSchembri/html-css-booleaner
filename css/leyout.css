@@ -33,3 +33,19 @@ margin-bottom: 20px;
 .evidenzia {
     background-color: rgb(251, 255, 0);
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    text-align: left;
+    
+}
+
+th {
+    background-color: rgba(82, 146, 235, 0.527);
+    color: aliceblue;
+}
+.riga {
+    background-color: rgba(131, 189, 231, 0.468);
+}
