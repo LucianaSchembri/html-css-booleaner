@@ -49,3 +49,29 @@ th {
 .riga {
     background-color: rgba(131, 189, 231, 0.468);
 }
+
+.titolo2 {
+    color: rgb(59, 58, 58);
+    font-weight: bold
+    ;
+}
+
+.lorem1 {
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 300px;
+    color: rgb(237, 240, 243);
+    font-weight: bolder;
+    font-size: large;
+    margin-top: 10px;
+}
+
+.lorem2 {
+     background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 300px;
+    color: rgb(237, 240, 243);
+    font-weight: bolder;
+    font-size: large;
+    margin-top: 10px;
+}
