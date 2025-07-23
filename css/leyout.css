@@ -16,3 +16,11 @@
 .the-Booleaner {
    color : rgb(54, 181, 245);
 }
+
+h6 {
+    line-height:0; 
+}
+
+.evidenzia {
+    background-color: rgb(251, 255, 0);
+}
